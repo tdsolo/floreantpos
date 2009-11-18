@@ -12,9 +12,8 @@ Features
 
 FloreantPOS provides all the necessary features for a POS. Some of the features include
 
-    * Food server/Waiter touch screen activities. To create Ticket, Merge, Split or Void them. Carry out, Table Allocation, Food void and Reorder. screenshot
-    *
-    * Manager facilities includes Drawer Pull, Drawer bleed, Credit card tips payment, POS printer reports.screenshot
+    * Food server/Waiter touch screen activities. To create Ticket, Merge, Split or Void them. Carry out, Table Allocation, Food void and Reorder.
+    * Manager facilities includes Drawer Pull, Drawer bleed, Credit card tips payment, POS printer reports.
     * Kitchen receipt print for faster processing of order, wastage tracking and Multiple printer routing
     * From Backoffice restaurant owner can Create food package, update food items, modifers, cooking instruction, forced beverage count, shift wise pricing and festival discounts.screenshot
     * IntegratedCash terminal that can handle multiple and partial payment in Cash & Credit card. Can cope with different type of discounts by percent and fixed amounts, giftcard, coupon and Printing cash receipts
